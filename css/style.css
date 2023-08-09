@@ -1,0 +1,9 @@
+body{
+        background-color: #D2DEF2;
+}
+img{
+        width:300px;
+        height:auto;
+        border:10px solid black;
+        aspect-ratio: 1;
+}
